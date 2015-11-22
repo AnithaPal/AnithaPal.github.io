@@ -23,11 +23,11 @@ theme:
   github: "anithaPal" 
   linkedin: "https://www.linkedin.com/in/anithapalanisamy"
   stack_exchange:  # Full URL
-  twitter:   #"@AnithaPal"
+  twitter: "@AnithaPal"
   
 
   # Scripts
-  google_analytics: "UA-69971826-1"
+  google_analytics: "UA-69971826-1  " # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
 
@@ -60,5 +60,4 @@ markdown: kramdown
 highlighter: pygments
 sass:
   sass_dir: _sass
-  style: :compressed 
-permalink: pretty  
+  style: :compressed
