@@ -28,6 +28,7 @@ theme:
 
   # Scripts
   google_analytics: "UA-69971826-1  " # Tracking ID, e.g. "UA-000000-01"
+
   disqus_shortname:
   katex: true # Enable if using math markup
 
