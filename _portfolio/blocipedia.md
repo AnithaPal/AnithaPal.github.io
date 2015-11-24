@@ -2,12 +2,7 @@
 layout: post
 title: Blocipedia
 thumbnail-path: "img/blocipedia.png"
-<<<<<<< HEAD
 short-description: Wiki Collaboration Application
-=======
-short-description: Build a production quality SaaS app that allows users to create their own wikis.
->>>>>>> gh-pages
-
 ---
 
 {:.center}
