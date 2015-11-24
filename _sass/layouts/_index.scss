@@ -53,10 +53,17 @@
   margin-bottom: 0;
 }
 
+.icon-style{
+  .icon-git, .icon-linkedin, .icon-mail{
+    color: black;
+  }
+}
+
 // Down Arrow
 .arrow-container {
   position: relative;
   padding-top: 10%;
+  padding-bottom: 30%;
   font-size: 1.5em;
   #down-arrow {
     color: $link-color;
@@ -105,4 +112,12 @@
 }
 .center {
   text-align: center;
+}
+
+.top{
+   position: relative;
+   background-image: url('../img/road-xl.jpg');
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: cover;
 }
