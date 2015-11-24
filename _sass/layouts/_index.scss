@@ -54,9 +54,11 @@
 }
 
 .icon-style{
-  .icon-git, .icon-linkedin, .icon-mail{
-    color: black;
-  }
+  li{
+     .icon-git, .icon-linkedin, .icon-mail{
+       color: black;
+    }  
+  } 
 }
 
 // Down Arrow
