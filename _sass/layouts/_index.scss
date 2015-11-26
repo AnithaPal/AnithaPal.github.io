@@ -60,7 +60,7 @@
   }
     }  
   } 
-}
+
 
 // Down Arrow
 .arrow-container {
@@ -123,4 +123,8 @@
    background-repeat: no-repeat;
    background-position: center center;
    background-size: cover;
+  @include desktop {
+     height: auto;
+  }
+  
 }
