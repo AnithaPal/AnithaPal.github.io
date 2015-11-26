@@ -21,7 +21,7 @@
     width:100%;
     a {
       font-size:1em;
-      color: $index-text-color;
+      color: $text-color;
     }
   }
   ul {
@@ -56,7 +56,8 @@
 .icon-style{
   li{
      .icon-git, .icon-linkedin, .icon-mail, .icon-twitter{
-       color: $link-color;
+       color: $index-text-color;
+  }
     }  
   } 
 }
