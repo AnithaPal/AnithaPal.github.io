@@ -6,7 +6,6 @@ short-description: Wiki Collaboration Application
 ---
 
 {:.center}
-<<<<<<< HEAD
 ![]({{ site.baseurl }}/img/blocflix.png)
 
 {:.center}
