@@ -7,7 +7,7 @@ short-description: Wiki Collaboration Application
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocflix.png)
+![]({{ site.baseurl }}/img/blocipedia.png)
 
 {:.center}
 [View the Repository](https://github.com/AnithaPal/Blocipedia)

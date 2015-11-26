@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Bookmarks
-thumbnail-path: "img/blocflix.png"
+thumbnail-path: "img/bookmarks.png"
 short-description: Social Bookmarking Application
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocflix.png)
+![]({{ site.baseurl }}/img/bookmarks.png)
 
 {:.center}
 [View the Repository](https://github.com/AnithaPal/Bookmarks)
