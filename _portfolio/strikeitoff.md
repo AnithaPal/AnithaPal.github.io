@@ -10,7 +10,6 @@ short-description: Self Destructing To-Do list Application
 
 {:.center}
 [View the Repository](https://github.com/AnithaPal/Strikeitoff)
-[Heroku Demo]()
 
 {:.center}
 
@@ -43,4 +42,4 @@ short-description: Self Destructing To-Do list Application
 
 {:.center}
 
-[Home]({{ site.baseurl | append: '/' }}) 
+[Home]({{ site.baseurl | append: '/' }})

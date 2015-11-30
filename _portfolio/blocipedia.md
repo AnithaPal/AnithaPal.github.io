@@ -11,7 +11,6 @@ short-description: Wiki Collaboration Application
 
 {:.center}
 [View the Repository](https://github.com/AnithaPal/Blocipedia)
-[Heroku Demo]()
 
 {:.center}
 
