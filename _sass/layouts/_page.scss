@@ -29,6 +29,14 @@ p.center {
     clear:both;
     width:100%;
     margin:2em auto;
+    .project-description{
+      #proj-title{
+      color: $text-color;
+    }
+      #project-short{
+        color: $link-color;
+      }
+    }
     .project-thumb {
       width: 100%;
       float: left;
