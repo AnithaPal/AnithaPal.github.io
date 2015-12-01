@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Strikeitoff
-thumbnail-path: "img/strikeit.png"
+thumbnail-path: "img/strikeitoff1.png"
 short-description: Self Destructing To-Do list Application
 
 ---
 {:.center}
-![]({{ site.baseurl }}/img/strikeit.png)
+![]({{ site.baseurl }}/img/strikeitoff1.png)
 
 {:.center}
 [View the Repository](https://github.com/AnithaPal/Strikeitoff)
