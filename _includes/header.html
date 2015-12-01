@@ -2,7 +2,7 @@
   <div class="top">
 	{% include navigation.html %}
 	{% if site.theme.header_text %}
-    
+
 	  <div {% if page.url == "/" %} class="call-out call-out-index" {% else %} class="call-out" {% endif %}
 	  style="background-image: url('{{ site.baseurl }}/{{ site.theme.header_text_feature_image }}')">
 			{% if page.url != "/" %}
@@ -10,9 +10,13 @@
 					<a href="{{ site.baseurl }}/"></a>
 				</h1>
 			{% endif %}
-			<div class="divider divider-index"></div>
-			<h1>{{ site.theme.header_text }}</h1>
-	    <div class="divider divider-index"></div>
+      {% if page.url == "/index.html" %}
+        <h1>{{ site.theme.header_text }}</h1>
+      {% else %}
+			   <div class="divider divider-index"></div>
+			      <h1>{{ site.theme.header_text }}</h1>
+	       <div class="divider divider-index"></div>
+      {% endif %}   
 	    <!-- Social icons from Font Awesome, if enabled -->
 		  <ul class="icon-style">
 		    {% include icons.html %}
@@ -25,6 +29,6 @@
 		      </div>
 			{% endif %}
 	  </div>
-  </div>  
+  </div>
   {% endif %}
 </header>

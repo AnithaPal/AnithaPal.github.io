@@ -15,3 +15,8 @@ feature-img: "img/color.png"
   <textarea name='message' placeholder='Your message ...'></textarea>
   <input type='submit' value='Send Message' />
 </form>
+
+{:.center}
+<a href="{{ site.baseurl}}/"   class="button">
+  <i class="fa fa-home"></i>
+</a>

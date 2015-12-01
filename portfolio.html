@@ -11,8 +11,8 @@ feature-img: "img/color.png"
   {% for project in site.portfolio limit:4 %}
   <div class="project">
     <div class="project-description">
-      <a href="{{ project.url | prepend: site.baseurl }}"><strong>{{ project.title }}</strong></a>
-      <p>{{ project.short-description }}</p>
+      <a id="proj-title" href="{{ project.url | prepend: site.baseurl }}"><strong>{{ project.title }}</strong></a>
+      <p id="project-short">{{ project.short-description }}</p>
     </div>
     <div class="project-thumb">
       <a href="{{ project.url | prepend: site.baseurl }}">
@@ -23,8 +23,7 @@ feature-img: "img/color.png"
   {% endfor %}
 </div>
 <div class="center">
-  <a href="{{ site.baseurl }}/">
-    {{"Home"}}
+  <a href="{{ site.baseurl}}/"   class="button">
+    <i class="fa fa-home"></i>
   </a>
 </div>
-
