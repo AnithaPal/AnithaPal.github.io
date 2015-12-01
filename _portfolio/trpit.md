@@ -1,14 +1,14 @@
 ---
 layout: post
 title: TripIt
-thumbnail-path: "img/blocitoff.png"
+thumbnail-path: "img/trpit_trip.png"
 short-description: Trip Planning Application
 
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocitoff.png)
+![]({{ site.baseurl }}/img/trpit_trip.png)
 
 {:.center}
 [View the Repository](https://github.com/AnithaPal/Trip-Planner)

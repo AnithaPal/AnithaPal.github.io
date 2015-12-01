@@ -58,8 +58,8 @@
      .icon-git, .icon-linkedin, .icon-mail, .icon-twitter{
        color: $index-text-color;
   }
-    }  
-  } 
+    }
+  }
 
 
 // Down Arrow
@@ -119,12 +119,12 @@
 
 .top{
    position: relative;
-   background-image: url('../img/background-image.png');
+   background-image: url('../img/background.png');
    background-repeat: no-repeat;
    background-position: center center;
    background-size: cover;
   @include desktop {
      height: auto;
   }
-  
+
 }
