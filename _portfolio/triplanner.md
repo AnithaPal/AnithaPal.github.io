@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TripIt
+title: Triplanner
 thumbnail-path: "img/trpit.png"
 short-description: Trip Planning Application
 
@@ -17,7 +17,7 @@ short-description: Trip Planning Application
 
 
 ## Overview
-TripIt is a trip planning application. It helps to organize trips by inviting friends to a trip and creating poll questions about where do they want to go and what they want to do in a trip. There is also voting facility, that helps to decide based on number of votes. After a trip, it also helps to share expenses with friends. It calculates each person share based on how much they spent on the trip.
+Triplanner is a trip planning application. It helps to organize trips by inviting friends to a trip and creating poll questions about where do they want to go and what they want to do in a trip. There is also voting facility, that helps to decide based on number of votes. After a trip, it also helps to share expenses with friends. It calculates each person share based on how much they spent on the trip.
 
 {:.center}
 
