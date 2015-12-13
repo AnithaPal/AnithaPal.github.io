@@ -42,4 +42,4 @@ short-description: Self Destructing To-Do list Application
 
 {:.center}
 
-[Home]({{ site.baseurl | append: '/' }})
+[<i class="fa fa-home"></i>]({{ site.baseurl | append: '/' }})

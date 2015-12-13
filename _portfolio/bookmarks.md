@@ -44,4 +44,4 @@ Bookmarks is a social bookmarking site that allows users to create topics and or
 
 {:.center}
 
-[Home]({{ site.baseurl | append: '/' }})
+[<i class="fa fa-home"></i>]({{ site.baseurl | append: '/' }})

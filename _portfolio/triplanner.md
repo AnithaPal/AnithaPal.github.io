@@ -43,4 +43,4 @@ Triplanner is a trip planning application. It helps to organize trips by invitin
 
 {:.center}
 
-[Home]({{ site.baseurl | append: '/' }})
+[<i class="fa fa-home"></i>]({{ site.baseurl | append: '/' }})

@@ -46,5 +46,5 @@ This Blocipedia application allows to create, edit, destroy  wikis and collabora
 
 {:.center}
 
-[Home]({{ site.baseurl | append: '/' }}) 
+[<i class="fa fa-home"></i>]({{ site.baseurl | append: '/' }}) 
 
