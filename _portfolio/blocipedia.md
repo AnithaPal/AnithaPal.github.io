@@ -9,7 +9,7 @@ short-description: Wiki Collaboration Application
 ![]({{ site.baseurl }}/img/blocipedia.png)
 
 {:.center}
-[View the Repository](https://github.com/AnithaPal/Blocipedia)
+[View the Repository](https://github.com/AnithaPal/Blocipedia) | [Website](https://ablocipedia.herokuapp.com)
 
 {:.center}
 
@@ -22,7 +22,7 @@ This Blocipedia application allows to create, edit, destroy  wikis and collabora
 ## Features
 
 + Users can create a standard account in order to create, edit, and collaborate on public wikis using Markdown syntax; anyone can view public wikis.
-+ User can preview their wiki while typing their markdown. 
++ User can preview their wiki while typing their markdown.
 + Users can pay to upgrade their account to Premium in order to view and create private wikis.
 + Premium users can allow others to view and collaborate on the private wikis they create.
 + Premium users can downgrade their account back to Standard account.
@@ -32,7 +32,7 @@ This Blocipedia application allows to create, edit, destroy  wikis and collabora
 
 ## Tools
 
-**Languages, Libraries, and Frameworks:** Ruby on Rails, Bootstrap 
+**Languages, Libraries, and Frameworks:** Ruby on Rails, Bootstrap
 
 **Databases:** SQLite (Test, Development), PostgreSQL (Production)
 
@@ -46,5 +46,4 @@ This Blocipedia application allows to create, edit, destroy  wikis and collabora
 
 {:.center}
 
-[<i class="fa fa-home"></i>]({{ site.baseurl | append: '/' }}) 
-
+[<i class="fa fa-home"></i>]({{ site.baseurl | append: '/' }})
