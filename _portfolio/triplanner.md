@@ -8,10 +8,10 @@ short-description: Trip Planning Application
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/trpit.png)
+![]({{ site.baseurl }}/img/blocipedianew.png)
 
 {:.center}
-[View the Repository](https://github.com/AnithaPal/Trip-Planner)
+[View the Repository](https://github.com/AnithaPal/Trip-Planner) [](https://trp-plan.herokuapp.com/)
 
 {:.center}
 
