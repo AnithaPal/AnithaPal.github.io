@@ -10,7 +10,7 @@ short-description: Social Bookmarking Application
 ![]({{ site.baseurl }}/img/bookmarks.png)
 
 {:.center}
-[View the Repository](https://github.com/AnithaPal/Bookmarks)  [Website](https://personal-bookmarks.herokuapp.com)
+[Source Code](https://github.com/AnithaPal/Bookmarks)  [Website](https://personal-bookmarks.herokuapp.com)
 
 {:.center}
 

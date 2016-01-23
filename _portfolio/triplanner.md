@@ -11,7 +11,7 @@ short-description: Trip Planning Application
 ![]({{ site.baseurl }}/img/triplanner.png)
 
 {:.center}
-[View the Repository](https://github.com/AnithaPal/Trip-Planner)  [Website](https://trp-plan.herokuapp.com/)
+[Source code](https://github.com/AnithaPal/Trip-Planner)  [Website](https://trp-plan.herokuapp.com/)
 
 {:.center}
 
