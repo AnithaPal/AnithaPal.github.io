@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Triplanner
-thumbnail-path: "img/trpit.png"
+thumbnail-path: "img/blocipedianew.png"
 short-description: Trip Planning Application
 
 
