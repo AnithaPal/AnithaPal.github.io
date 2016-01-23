@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Triplanner
-thumbnail-path: "img/trpit.png"
+thumbnail-path: "img/triplanner.png"
 short-description: Trip Planning Application
 
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocipedianew.png)
+![]({{ site.baseurl }}/img/triplanner.png)
 
 {:.center}
 [View the Repository](https://github.com/AnithaPal/Trip-Planner) [](https://trp-plan.herokuapp.com/)
