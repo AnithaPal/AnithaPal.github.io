@@ -9,7 +9,7 @@ short-description: Wiki Collaboration Application
 ![]({{ site.baseurl }}/img/blocipedia.png)
 
 {:.center}
-[View the Repository](https://github.com/AnithaPal/Blocipedia) | [Website](https://ablocipedia.herokuapp.com)
+[View the Repository](https://github.com/AnithaPal/Blocipedia)  [Website](https://ablocipedia.herokuapp.com)
 
 {:.center}
 
