@@ -5,24 +5,25 @@ url: "https://anithapal.github.io/" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Anitha Palanisamy 
+  title: Anitha Palanisamy
   description: "Ruby On Rails developer - Journey " # used by search engines
 
   # Header and footer text
   header_text: >
      <h1>Anitha Palanisamy</h1>
-  header_text_feature_image: 
+  header_text_feature_image:
   footer_text: >
    <p> Anitha Palanisamy - 2015 </p>
-   
+
 
   # Icons
   rss: false
-  email_address: "anithaspark@gmail.com" 
-  github: "anithaPal" 
+  email_address: "anithaspark@gmail.com"
+  github: "anithaPal"
   linkedin: "https://www.linkedin.com/in/anithapalanisamy"
+  medium: "@anithaPal"
   stack_exchange:  # Full URL
-  
+
 
   # Scripts
   google_analytics: "UA-69971826-1  " # Tracking ID, e.g. "UA-000000-01"

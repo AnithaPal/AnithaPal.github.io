@@ -9,7 +9,7 @@ short-description: Self Destructing To-Do list Application
 ![]({{ site.baseurl }}/img/strikeitoff1.png)
 
 {:.center}
-[View the Repository](https://github.com/AnithaPal/Strikeitoff)
+[Source Code](https://github.com/AnithaPal/Strikeitoff)  [Website](https://strikeitoff.herokuapp.com)
 
 {:.center}
 
