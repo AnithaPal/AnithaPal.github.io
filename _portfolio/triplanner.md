@@ -3,8 +3,6 @@ layout: post
 title: Triplanner
 thumbnail-path: "img/triplanner.png"
 short-description: Trip Planning Application
-
-
 ---
 
 {:.center}
