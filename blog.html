@@ -1,0 +1,33 @@
+---
+layout: page
+title: Blog
+permalink: /blog/
+feature-img: "img/color.png"
+---
+
+<div class="blog_work">
+  <h2>My Recent Blogs</h2>
+  {% for post in site.posts %}
+  <div class="blog-post">
+    <div class="post-description">
+      <a id="post-title"  href="{{ post.url | prepend: site.baseurl }}">
+        <strong>{{ post.title }}</strong>
+      </a>
+      <span class="post-date">
+        {{ post.date | date: "%B %-d, %Y" }}
+      </span>
+      <p id="post-short">
+        {{ post.excerpt | | strip_html | strip_newlines | truncate: 200 }}
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          <em> {{ site.theme.str_continue_reading }} </em>
+        </a>
+      </p>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+<div class="center">
+  <a href="{{ site.baseurl}}/"   class="button">
+    <i class="fa fa-home"></i>
+  </a>
+</div>
